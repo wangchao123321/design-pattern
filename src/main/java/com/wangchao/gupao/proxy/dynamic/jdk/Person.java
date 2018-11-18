@@ -1,4 +1,4 @@
-package com.wangchao.gupao.proxy.staticed;
+package com.wangchao.gupao.proxy.dynamic.jdk;
 
 public interface Person {
 
@@ -9,5 +9,4 @@ public interface Person {
     void buy();
 
     void job();
-
 }
